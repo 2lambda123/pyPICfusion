@@ -3,7 +3,6 @@
 Created on Mon Aug 15 16:18:04 2016
 @author: higginson2
 """
-from __future__ import division
 import numpy as np
 import pylab as pl
 #import FUSION_source as FS
